@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News Spark</string>
+    <string name="title_activity_view_news">ViewNewsActivity</string>
+</resources>
